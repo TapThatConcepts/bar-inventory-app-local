@@ -11,7 +11,6 @@
 		316E94092CC4269A00DA5877 /* app.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = app.js; sourceTree = "<group>"; };
 		316E940A2CC426C000DA5877 /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
 		316E940B2CC426E200DA5877 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = manifest.json; sourceTree = "<group>"; };
-		316E940D2CC4271200DA5877 /* service-worker.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = "service-worker.js"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -22,7 +21,6 @@
 				316E940A2CC426C000DA5877 /* style.css */,
 				316E94092CC4269A00DA5877 /* app.js */,
 				316E940B2CC426E200DA5877 /* manifest.json */,
-				316E940D2CC4271200DA5877 /* service-worker.js */,
 			);
 			sourceTree = "<group>";
 		};
