@@ -19,8 +19,8 @@
 			isa = PBXGroup;
 			children = (
 				316E94082CC4267D00DA5877 /* index.html */,
-				316E94092CC4269A00DA5877 /* app.js */,
 				316E940A2CC426C000DA5877 /* style.css */,
+				316E94092CC4269A00DA5877 /* app.js */,
 				316E940B2CC426E200DA5877 /* manifest.json */,
 				316E940D2CC4271200DA5877 /* service-worker.js */,
 			);
