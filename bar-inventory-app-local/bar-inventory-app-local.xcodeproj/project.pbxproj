@@ -1,0 +1,83 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		316E94082CC4267D00DA5877 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		316E94092CC4269A00DA5877 /* app.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = app.js; sourceTree = "<group>"; };
+		316E940A2CC426C000DA5877 /* style.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
+		316E940B2CC426E200DA5877 /* manifest.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = manifest.json; sourceTree = "<group>"; };
+		316E940D2CC4271200DA5877 /* service-worker.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = "service-worker.js"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		316E94012CC4267100DA5877 = {
+			isa = PBXGroup;
+			children = (
+				316E94082CC4267D00DA5877 /* index.html */,
+				316E94092CC4269A00DA5877 /* app.js */,
+				316E940A2CC426C000DA5877 /* style.css */,
+				316E940B2CC426E200DA5877 /* manifest.json */,
+				316E940D2CC4271200DA5877 /* service-worker.js */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		316E94022CC4267100DA5877 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1600;
+			};
+			buildConfigurationList = 316E94052CC4267100DA5877 /* Build configuration list for PBXProject "bar-inventory-app-local" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 316E94012CC4267100DA5877;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		316E94062CC4267100DA5877 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		316E94072CC4267100DA5877 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		316E94052CC4267100DA5877 /* Build configuration list for PBXProject "bar-inventory-app-local" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				316E94062CC4267100DA5877 /* Debug */,
+				316E94072CC4267100DA5877 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 316E94022CC4267100DA5877 /* Project object */;
+}
